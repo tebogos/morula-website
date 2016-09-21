@@ -1,0 +1,141 @@
+.navbar {
+   background-color: #fff;
+   background: rgba(0,0,0,0.9);
+   border-color: transparent;
+   color: #fff;
+}
+body{
+  padding-top:50px;
+
+
+}
+.carousel-caption h3 , .carousel-caption p {
+  color: #fff;
+}
+footer h3{
+color: #fff
+}
+footer .social{
+  width: 20px;
+  height: 20px;
+  fill: #aaa;
+
+}
+/*.btn-default, .btn-default:hover, .btn-default:active, .btn-default:visited {
+    background-color: #eeaa44 !important;
+}*/
+footer {
+color: #aaa
+}
+footer a{
+color: #aaa
+}
+footer a:hover{
+color: #fff
+}
+footer{
+  background-color: #4c4c4c
+}
+.footer-div{
+padding-left: 40px
+}
+.navbar  li  { color: #fff }
+.navbar-inverse {
+  color: #fff;
+}
+.corousel {
+  color: #444;
+}
+
+
+.breadcrumb {
+/*padding-left: 100px;*/
+background-color:#fefeff;
+}
+.breadcrumb > li+li:before{
+
+  /*content:none*/
+}
+
+/*HEADLINE*/
+h3{
+        font-family:Georgia,serif;
+ color:#4E443C;
+ font-variant: small-caps; text-transform: none; font-weight: 80; margin-bottom: 0;
+ font-size: 1.12em;
+}
+/*PARAGRAPH*/
+p{        font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+        font-size: 14px;
+        margin-top: .5em; color: #666;
+      }
+
+/*PARAGRAPH START */
+  p:first-letter  {      font-family:Georgia,serif;
+ font-size: .8em;
+        font-weight: bold;
+ text-transform:uppercase;
+ letter-spacing:2px;
+}
+
+ul{        font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+        font-size: 14px;
+        margin-top: .5em;
+         color: #666;
+        list-style-type:none
+      }
+
+      h1{
+              font-family:Georgia,serif;
+       color:#4E443C;
+       font-variant: small-caps; text-transform: none; font-weight: 80; margin-bottom: 0;
+       font-size: 3em;
+      }
+
+      /*h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }*/
+
+
+      h2 { color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
+
+
+      .subheader { font-size: 20px; font-weight: 300; color: #ffcc66; margin: 0 0 24px; }
+
+
+      /*p { color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px; }*/
+
+
+      /*a { color: #ff9900; background: #fff4a3; text-decoration: none; }
+
+
+      a:hover { color: #ffcc66 }*/
+
+
+PARAGRAPH CODE
+
+          /*p:first-letter{
+               text-transform: uppercase;
+          } *
+        p {
+        color: #424242;
+        font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+ letter-spacing:0.1em;
+ text-align:center;
+ margin: 40px auto;
+ text-transform: lowercase;
+ line-height: 145%;
+ font-size: 14pt;
+ font-variant: small-caps;
+        }
+
+TWITTER HEADLINE
+
+      h1  {font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+ font-style: italic;
+        color: #424242;}
+
+        a { font-style: normal;
+ font-variant: small-caps;
+ text-decoration: none;
+ color: #afafaf;
+        font-size: 14px;
+        }
