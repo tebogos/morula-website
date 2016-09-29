@@ -16,11 +16,13 @@
 
 runtime: nodejs
 vm: true
-manual_scaling:
-    instances: 1
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 1
+  cool_down_period_sec: 120 # default value
 resources:
   cpu: 0.1
-  memory_gb: 0.6
+  memory_gb: 0.1
   disk_size_gb: 10
 
 # [END app_yaml]
