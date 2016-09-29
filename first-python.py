@@ -1,2 +1,0 @@
-x="Ben"
-print(x)
